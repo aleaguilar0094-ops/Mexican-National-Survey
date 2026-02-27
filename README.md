@@ -7,7 +7,7 @@ In this project the results of the National Survey on the Availability and Use o
  * The file CENDUTIH2024.pdf is the actual survey. 
  * In the folder  conjunto_de_datos_endutih_2024_csv are:
     * The keys of Mexican states:
-            conjunto_de_datos_endutih_2024_csv\catalogo\tc_endutih_entidad.csv
+        * conjunto_de_datos_endutih_2024_csv\catalogo\tc_endutih_entidad.csv
     * The results from the section IV and V of the survey:
             conjunto_de_datos_endutih_2024_csv\conjunto_de_datos\tr_endutih_hogares_anual_2024.csv
     * The results from the section III of the survey:
