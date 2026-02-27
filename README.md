@@ -6,7 +6,7 @@ In this project the results of the National Survey on the Availability and Use o
 
  * The file CENDUTIH2024.pdf is the actual survey. 
  * In the folder  conjunto_de_datos_endutih_2024_csv are:
-    * The keys of Mexican states
+    * The keys of Mexican states:
         conjunto_de_datos_endutih_2024_csv\catalogo\tc_endutih_entidad.csv
     * The results from the section IV and V of the survey:
         conjunto_de_datos_endutih_2024_csv\conjunto_de_datos\tr_endutih_hogares_anual_2024.csv
@@ -16,7 +16,7 @@ In this project the results of the National Survey on the Availability and Use o
        conjunto_de_datos_endutih_2024_csv\conjunto_de_datos\tr_endutih_usuarios_anual_2024.csv
     * The results from the section VIII to X of the survey: 
         conjunto_de_datos_endutih_2024_csv\conjunto_de_datos\tr_endutih_usuarios2_anual_2024.csv
-    * The results from the section II and III of the survey
+    * The results from the section II and III of the survey:
         conjunto_de_datos_endutih_2024_csv\conjunto_de_datos\tr_endutih_viviendas_anual_2024.csv
     * The metadata of each question of the section IV and V of the survey:
         conjunto_de_datos_endutih_2024_csv\diccionario_de_datos\diccionario_de_datos_tr_endutih_hogares_anual_2024.csv
@@ -26,9 +26,9 @@ In this project the results of the National Survey on the Availability and Use o
        conjunto_de_datos_endutih_2024_csv\diccionario_de_datos\diccionario_de_datos_tr_endutih_usuarios_anual_2024.csv
     * The metadata of each question of thegit section VIII to X of the survey: 
         conjunto_de_datos_endutih_2024_csv\diccionario_de_datos\diccionario_de_datos_tr_endutih_usuarios2_anual_2024.csv
-    * The metadata of each question of II and III of the survey
+    * The metadata of each question of II and III of the survey:
         conjunto_de_datos_endutih_2024_csv\diccionario_de_datos\diccionario_de_datos_tr_endutih_viviendas_anual_2024.csv
-    * A further description of the survey.
+    * A further description of the survey:
         conjunto_de_datos_endutih_2024_csv\metadato\metadatos_endutih_anual_2024.txt
-    * A entity–relationship model
+    * A entity–relationship model:
         conjunto_de_datos_endutih_2024_csv\modelo_entidad_relacion\modelo_er_endutih_2024.jpg
