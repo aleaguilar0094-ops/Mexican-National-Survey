@@ -18,3 +18,13 @@ In this project the results of the National Survey on the Availability and Use o
         conjunto_de_datos_endutih_2024_csv\conjunto_de_datos\tr_endutih_usuarios2_anual_2024.csv
     * The results from the section II and III of the survey
         conjunto_de_datos_endutih_2024_csv\conjunto_de_datos\tr_endutih_viviendas_anual_2024.csv
+    * The metada of each question of the section IV and V of the survey:
+        conjunto_de_datos_endutih_2024_csv\diccionario_de_datos\diccionario_de_datos_tr_endutih_hogares_anual_2024.csv
+    * The metada of each question of the section III of the survey:
+        conjunto_de_datos_endutih_2024_csv\diccionario_de_datos\diccionario_de_datos_tr_endutih_residentes_anual_2024.csv
+    * The metada of each question of the section VII and V of the survey:
+       conjunto_de_datos_endutih_2024_csv\diccionario_de_datos\diccionario_de_datos_tr_endutih_usuarios_anual_2024.csv
+    * The metada of each question of the section VIII to X of the survey: 
+        conjunto_de_datos_endutih_2024_csv\diccionario_de_datos\diccionario_de_datos_tr_endutih_usuarios2_anual_2024.csv
+    * The metada of each question of II and III of the survey
+        conjunto_de_datos_endutih_2024_csv\diccionario_de_datos\diccionario_de_datos_tr_endutih_viviendas_anual_2024.csv
