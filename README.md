@@ -1,7 +1,12 @@
 # Description
 
-In this project the results of the National Survey on the Availability and Use of Information Technologies in Households executed by INEGI in 2024, Instituto Nacional de Estadística Aplicada (National Institute of Applied Statistics) were analysed.
+In this project, the results of the National Survey on the Availability and Use of Information Technologies in Households executed by INEGI in 2024, Instituto Nacional de Estadística Aplicada (National Institute of Applied Statistics) were analysed. 
 
+Objectives of the project: 
+   Clean and preprocess one dataset in one week
+   Find within two weeks what are the variables that determiate if they acquires services or products in Information Technologies
+ 
+   
 ## Content:
 
  * The file CENDUTIH2024.pdf is the actual survey. 
