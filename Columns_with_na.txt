@@ -1,0 +1,104 @@
+0; UPM; Unidad primaria de muestreo; 0 
+1; VIV_SEL; Vivienda seleccionada; 0 
+2; HOGAR; Número de Hogar en la vivienda; 0 
+3; P4_1_1; 4.1 Por favor, dígame si disponen de los siguientes bienes: Radio; 0 
+4; P4_1_2; 4.1 Por favor, dígame si disponen de los siguientes bienes: Televisor analógico (de cinescopio); 0 
+5; P4_1_3; 4.1 Por favor, dígame si disponen de los siguientes bienes: Decodificador de TV digital abierta (diferente a TV de paga); 0 
+6; P4_1_4; 4.1 Por favor, dígame si disponen de los siguientes bienes: Pantalla plana (televisor digital, LCD o LED); 0 
+7; P4_1_4_1; 4.1 Por favor, dígame si disponen de los siguientes bienes:  Pantalla plana (televisor digital, LCD o LED)  En total,  ¿de cuántas pantallas planas disponen?; 0 
+8; P4_1_4_2; 4.1 Por favor, dígame si disponen de los siguientes bienes:  Pantalla plana (televisor digital, LCD o LED)  ¿En total, de cuántas pantallas planas disponen? ¿Cuántas de estas cuentan con funciones de SmartTV  (que se conecte directamente a internet o mediante un dispositivo)?; 0 
+9; P4_1_5; 4.1 Por favor, dígame si disponen de los siguientes bienes: Consola de videojuegos; 0 
+10; P4_1_6; 4.1 Por favor, dígame si disponen de los siguientes bienes:  Teléfono celular móvil (por cualquiera de los integrantes); 0 
+11; P4_1_6_1; 4.1 Por favor, dígame si disponen de los siguientes bienes:  Teléfono celular móvil (por cualquiera de los integrantes) En total, ¿de cuántos teléfonos celulares disponen en el hogar?; 0 
+12; P4_1_6_2; 4.1 Por favor, dígame si disponen de los siguientes bienes:  Teléfono celular móvil (por cualquiera de los integrantes) ¿Cuántos de estos son celulares inteligentes (Smartphone)?; 0 
+13; P4_2_1_1; 4.2 ¿Disponen de...  computadora de escritorio (Teclado, monitor y CPU se encuentran separados)?; 0 
+14; P4_2_1_2; 4.2 ¿Disponen de...  computadora de escritorio (Teclado, monitor y CPU se encuentran separados)?  ¿Cuántas computadoras de escritorio?; 0 
+15; P4_2_2_1; 4.2 ¿Disponen de...  computadora portátil (teclado, monitor y CPU se encuentran integrados físicamente)?; 0 
+16; P4_2_2_2; 4.2 ¿Disponen de...  computadora de escritorio (Teclado, monitor y CPU se encuentran separados)?  ¿Cuántas computadoras de portátiles?; 0 
+17; P4_2_3_1; 4.2 ¿Disponen de...  Tablet (teclado y puntero virtuales en la pantalla táctil)?; 0 
+18; P4_2_3_2; 4.2 ¿Disponen de...  computadora de escritorio (Teclado, monitor y CPU se encuentran separados)?  ¿Cuántas tablet?; 0 
+19; P4_3; 4.3 ¿Por qué no disponen de computadora, laptop o Tablet?; 0 
+20; P4_3A; 4.3 ¿Por qué no disponen de computadora, laptop o Tablet?   Otra razón Especifique; 57833 
+21; P4_4; 4.4 ¿Disponen de conexión a internet en el hogar?; 0 
+22; P4_5; 4.5 ¿La conexión a internet es fija, móvil o de ambas?; 0 
+23; P4_6_1; 4.6 ¿El medio de conexión fija es por… línea telefónica dedicada (con la que puede hablar por teléfono cuando está conectado a internet)?; 0 
+24; P4_6_2; 4.6 ¿El medio de conexión fija es por...  internet por cable (comúnmente asociada a TV de paga)?; 0 
+25; P4_6_3; 4.6 ¿El medio de conexión fija es por…  conexión satelital (por una antena parabólica, no confundir con las antenas de plato que otorgan servicio como Sky o Dish)?; 0 
+26; P4_6_4; 4.6 ¿El medio de conexión fija es por …  señal abierta de WIFI (externa a su hogar)?; 0 
+27; P4_6_5; 4.6 ¿El medio de conexión fija es por…  línea telefónica por marcación (DIAL UP, mientras está conectado a internet no puede hablar por teléfono)?; 0 
+28; P4_6_6; 4.6 ¿El medio de conexión fija es por…  Otro medio; 0 
+29; P4_6A; 4.6 ¿El medio de conexión fija es por…  Otro medio Especifique; 0 
+30; P4_7_1; 4.7 ¿Con qué equipo(s) hacen la conexión móvil?  Con un celular inteligente (Smartphone); 49156 
+31; P4_7_2; 4.7 ¿Con qué equipo(s) hacen la conexión móvil?  Con una computadora o laptop, conectada a una tarjeta BAM o a un celular; 49156 
+32; P4_7_3; 4.7 ¿Con qué equipo(s) hacen la conexión móvil?  Con una tablet con acceso a red móvil; 49156 
+33; P4_7_4; 4.7 ¿Con qué equipo(s) hacen la conexión móvil?  Con un módem inalámbrico con acceso a red móvil; 49156 
+34; P4_7_5; 4.7 ¿Con qué equipo(s) hacen la conexión móvil?  Otro equipo; 49156 
+35; P4_7A; 4.7 ¿Con qué equipo(s) hacen la conexión móvil?  Otro equipo Especifique; 58058 
+36; P4_8; 4.8 ¿Por qué no disponen de internet en el hogar?; 42638 
+37; P4_8A; 4.8 ¿Por qué no disponen de internet en el hogar? Especifique; 57788 
+38; P5_1; 5.1 ¿Disponen de servicio de televisión de paga?; 0 
+39; P5_2_1; 5.2 ¿Lo reciben por…  cable (Megacable, Izzi, etcétera.)? ; 36538 
+40; P5_2_2; 5.2 ¿Lo reciben por…  vía satélite (Sky, Dish, etcétera.)?; 36538 
+41; P5_3_1; 5.3 ¿Comparte el servicio de televisión de paga… con otro hogar?; 36538 
+42; P5_3_2; 5.3 ¿Comparte el servicio de televisión de paga… con un establecimiento dentro o anexo al hogar (consultorio, abarrotes, papelería, etc.)?; 36538 
+43; P5_4; 5.4 ¿Por qué no cuenta con servicios de televisión de paga?; 21542 
+44; P5_4A; 5.4 ¿Por qué no cuenta con servicios de televisión de paga? Otra razón Especifique; 57892 
+45; P5_5; 5.5 ¿Disponen de línea telefónica fija (puede ser telefonía celular fija)?; 0 
+46; P5_6; 5.6 ¿Disponen de servicio de streaming (Spotify, Apple music, Netflix, Prime Video, Max, Apple TV, Disney+, Twitch)?; 0 
+47; P5_7_1; 5.7 Usted declaró que dispone de (los) siguiente(s) servicio(s): Internet fijo; 0 
+48; P5_7_2; 5.7 Usted declaró que dispone de (los) siguiente(s) servicio(s): TV de paga ; 0 
+49; P5_7_3; 5.7 Usted declaró que dispone de (los) siguiente(s) servicio(s):Telefonía fija ; 0 
+50; P5_7_4; 5.7 Usted declaró que dispone de (los) siguiente(s) servicio(s):Telefonía móvil; 0 
+51; P5_7_5; 5.7 Usted declaró que dispone de (los) siguiente(s) servicio(s): Ninguno ; 0 
+52; P5_8_1; 5.8 De los servicios de (opción de 5.7). ¿Dígame si los disponen en paquete o los reciben de manera separada…  TV de paga, telefonía fija, internet y telefonía móvil?; 1839 
+53; P5_9_1; 5.9 En el último mes, ¿cuál es el monto del pago realizado por el servicio de …  TV de paga, telefonía fija, internet y telefonía móvil?; 58019 
+54; P5_10_1; 5.10 ¿Reciben sin pago el servicio… (CÓDIGO “0, 000” o “9, 999” EN 5.9)  TV de paga, telefonía fija, internet y telefonía móvil?; 58078 
+55; P5_11_1; 5.11 Entonces, ¿su paquete incluye un servicio que no utiliza?  TV de paga, Telefonía fija, Internet y Telefonía móvil?; 58069 
+56; P5_8_2; 5.8 De los servicios de (opción de 5.7). ¿Dígame si los disponen en paquete o los reciben de manera separada… TV de paga, telefonía fija e internet?; 1839 
+57; P5_9_2; 5.9 En el último mes, ¿cuál es el monto del pago realizado por el servicio de …  TV de paga, telefonía fija e internet?; 50170 
+58; P5_10_2; 5.10 ¿Reciben sin pago el servicio… (CÓDIGO “0, 000” o “9, 999” EN 5.9) TV de paga, telefonía fija e internet?; 57595 
+59; P5_11_2; 5.11 Entonces, ¿su paquete incluye un servicio que no utiliza?  TV de paga, telefonía fija e internet?; 57213 
+60; P5_8_3; 5.8 De los servicios de (opción de 5.7). ¿Dígame si los disponen en paquete o los reciben de manera separada… TV de paga y telefonía fija?; 1839 
+61; P5_9_3; 5.9 En el último mes, ¿cuál es el monto del pago realizado por el servicio de …  TV de paga y telefonía fija?; 57924 
+62; P5_10_3; 5.10 ¿Reciben sin pago el servicio… (CÓDIGO “0, 000” o “9, 999” EN 5.9) TV de paga y telefonía fija?; 58062 
+63; P5_11_3; 5.11 Entonces, ¿su paquete incluye un servicio que no utiliza?  TV de paga y telefonía fija?; 58054 
+64; P5_8_4; 5.8 De los servicios de (opción de 5.7). ¿Dígame si los disponen en paquete o los reciben de manera separada… TV de paga e Internet?; 1839 
+65; P5_9_4; 5.9 En el último mes, ¿cuál es el monto del pago realizado por el servicio de …  TV de paga e internet?; 51798 
+66; P5_10_4; 5.10 ¿Reciben sin pago el servicio… (CÓDIGO “0, 000” o “9, 999” EN 5.9)  TV de paga e internet?; 57670 
+67; P5_11_4; 5.11 Entonces, ¿su paquete incluye un servicio que no utiliza?  TV de paga e internet?; 57851 
+68; P5_8_5; 5.8 De los servicios de (opción de 5.7). ¿Dígame si los disponen en paquete o los reciben de manera separada… Telefonía fija e internet?; 1839 
+69; P5_9_5; 5.9 En el último mes, ¿cuál es el monto del pago realizado por el servicio de …  Telefonía fija e internet?; 47883 
+70; P5_10_5; 5.10 ¿Reciben sin pago el servicio… (CÓDIGO “0, 000” o “9, 999” EN 5.9)  Telefonía fija e internet?; 57541 
+71; P5_11_5; 5.11 Entonces, ¿su paquete incluye un servicio que no utiliza?  Telefonía fija e internet?; 57490 
+72; P5_8_6; 5.8 De los servicios de (opción de 5.7). ¿Dígame si los disponen en paquete o los reciben de manera separada… Solo TV de paga?; 1839 
+73; P5_9_6; 5.9 En el último mes, ¿cuál es el monto del pago realizado por el servicio de …  Solo TV de paga?; 50468 
+74; P5_10_6; 5.10 ¿Reciben sin pago el servicio… (CÓDIGO “0, 000” o “9, 999” EN 5.9)  Solo TV de paga?; 57650 
+75; P5_8_7; 5.8 De los servicios de (opción de 5.7). ¿Dígame si los disponen en paquete o los reciben de manera separada… Solo telefonía fija?; 1839 
+76; P5_9_7; 5.9 En el último mes, ¿cuál es el monto del pago realizado por el servicio de …  Solo telefonía fija?; 56850 
+77; P5_10_7; 5.10 ¿Reciben sin pago el servicio… (CÓDIGO “0, 000” o “9, 999” EN 5.9)  Solo telefonía fija?; 57887 
+78; P5_8_8; 5.8 De los servicios de (opción de 5.7). ¿Dígame si los disponen en paquete o los reciben de manera separada… Solo internet?; 1839 
+79; P5_9_8; 5.9 En el último mes, ¿cuál es el monto del pago realizado por el servicio de …  Solo internet?; 41020 
+80; P5_10_8; 5.10 ¿Reciben sin pago el servicio… (CÓDIGO “0, 000” o “9, 999” EN 5.9)  Solo internet?; 56489 
+81; P5_12_1; 5.12 ¿Se encuentra satisfecha(o) o insatisfecha(o) con el servicio de… Internet?.; 1839 
+82; P5_12_2; 5.12 ¿Se encuentra satisfecha(o) o insatisfecha(o) con el servicio de… TV de paga?; 1839 
+83; P5_12_3; 5.12 ¿Se encuentra satisfecha(o) o insatisfecho(o) con el servicio de… Telefonía fija?; 1839 
+84; P5_13_1; 5.13 De los siguientes dispositivos inteligentes conectados a internet o a una red local, ¿dispone de… (excluye Smartphone, computadora de escritorio, laptop, tablet, consola de videojuegos y Smart TV) bocina o asistente del hogar (Alexa, Google Assistant)?; 0 
+85; P5_13_2; 5.13 De los siguientes dispositivos inteligentes conectados a internet o a una red local, ¿dispone de… (excluye Smartphone, computadora de escritorio, laptop, tablet, consola de videojuegos y Smart TV) sistemas de video vigilancia (cámara de seguridad, monitor de bebé, alarmas)?; 0 
+86; P5_13_3; 5.13 De los siguientes dispositivos inteligentes conectados a internet o a una red local, ¿dispone de… (excluye Smartphone, computadora de escritorio, laptop, tablet, consola de videojuegos y Smart TV) puertas o ventanas con cerrado digital?; 0 
+87; P5_13_4; 5.13 De los siguientes dispositivos inteligentes conectados a internet o a una red local, ¿dispone de… (excluye Smartphone, computadora de escritorio, laptop, tablet, consola de videojuegos y Smart TV) termostato o dispositivos de ahorro de energía eléctrica (Ecobee, Nest, Sensi)?; 0 
+88; P5_13_5; 5.13 De los siguientes dispositivos inteligentes conectados a internet o a una red local, ¿dispone de… (excluye Smartphone, computadora de escritorio, laptop, tablet, consola de videojuegos y Smart TV) luces o interruptores?; 0 
+89; P5_13_6; 5.13 De los siguientes dispositivos inteligentes conectados a internet o a una red local, ¿dispone de… (excluye Smartphone, computadora de escritorio, laptop, tablet, consola de videojuegos y Smart TV) conexión eléctrica (soquet o enchufes)?; 0 
+90; P5_13_7; 5.13 De los siguientes dispositivos inteligentes conectados a internet o a una red local, ¿dispone de… (excluye Smartphone, computadora de escritorio, laptop, tablet, consola de videojuegos y Smart TV) electrodomésticos (refrigerador, estufa, lavavajillas, cafetera, tostador, aspiradora, microondas, lavadora, secadora, lavasecadora)?; 0 
+91; P5_13_8; 5.13 De los siguientes dispositivos inteligentes conectados a internet o a una red local, ¿dispone de… (excluye Smartphone, computadora de escritorio, laptop, tablet, consola de videojuegos y Smart TV) dispositivos de entretenimiento (DVD, Blu-ray)?; 0 
+92; P5_13_9; 5.13 De los siguientes dispositivos inteligentes conectados a internet o a una red local, ¿dispone de… (excluye Smartphone, computadora de escritorio, laptop, tablet, consola de videojuegos y Smart TV) automóvil o camioneta?; 0 
+93; P5_13_10; 5.13 De los siguientes dispositivos inteligentes conectados a internet o a una red local, ¿dispone de… (excluye Smartphone, computadora de escritorio, laptop, tablet, consola de videojuegos y Smart TV) Otros dispositivos?; 0 
+94; P5_13A; 5.13 De los siguientes dispositivos inteligentes conectados a internet o a una red local, ¿dispone de… (excluye Smartphone, computadora de escritorio, laptop, tablet, consola de videojuegos y Smart TV) Otros dispositivos? Especifique; 0 
+95; FAC_HOG; Factor; 0 
+96; UPM_DIS; Unidad primaria de muestreo; 0 
+97; EST_DIS; Estrato de diseño muestral; 0 
+98; DOMINIO; Población rural y urbana; 0 
+99; TLOC; Tamaño de la Localidad; 0 
+100; ESTRATO; Estrato socioeconómico; 0 
+101; CVE_ENT; Clave del AGEE; 0 
+102; CVEGEO; Clave geoestadística concatenada; 0 
+103; ESTATUS; Estatus; 0 
