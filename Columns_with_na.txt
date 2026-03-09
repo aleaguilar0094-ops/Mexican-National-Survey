@@ -28,11 +28,11 @@
 27; P4_6_5; 4.6 ¿El medio de conexión fija es por…  línea telefónica por marcación (DIAL UP, mientras está conectado a internet no puede hablar por teléfono)?; 0 
 28; P4_6_6; 4.6 ¿El medio de conexión fija es por…  Otro medio; 0 
 29; P4_6A; 4.6 ¿El medio de conexión fija es por…  Otro medio Especifique; 0 
-30; P4_7_1; 4.7 ¿Con qué equipo(s) hacen la conexión móvil?  Con un celular inteligente (Smartphone); 49156 
-31; P4_7_2; 4.7 ¿Con qué equipo(s) hacen la conexión móvil?  Con una computadora o laptop, conectada a una tarjeta BAM o a un celular; 49156 
-32; P4_7_3; 4.7 ¿Con qué equipo(s) hacen la conexión móvil?  Con una tablet con acceso a red móvil; 49156 
-33; P4_7_4; 4.7 ¿Con qué equipo(s) hacen la conexión móvil?  Con un módem inalámbrico con acceso a red móvil; 49156 
-34; P4_7_5; 4.7 ¿Con qué equipo(s) hacen la conexión móvil?  Otro equipo; 49156 
+30; P4_7_1; 4.7 ¿Con qué equipo(s) hacen la conexión móvil?  Con un celular inteligente (Smartphone); 0 
+31; P4_7_2; 4.7 ¿Con qué equipo(s) hacen la conexión móvil?  Con una computadora o laptop, conectada a una tarjeta BAM o a un celular; 0 
+32; P4_7_3; 4.7 ¿Con qué equipo(s) hacen la conexión móvil?  Con una tablet con acceso a red móvil; 0 
+33; P4_7_4; 4.7 ¿Con qué equipo(s) hacen la conexión móvil?  Con un módem inalámbrico con acceso a red móvil; 0 
+34; P4_7_5; 4.7 ¿Con qué equipo(s) hacen la conexión móvil?  Otro equipo; 0 
 35; P4_7A; 4.7 ¿Con qué equipo(s) hacen la conexión móvil?  Otro equipo Especifique; 58058 
 36; P4_8; 4.8 ¿Por qué no disponen de internet en el hogar?; 42638 
 37; P4_8A; 4.8 ¿Por qué no disponen de internet en el hogar? Especifique; 57788 
